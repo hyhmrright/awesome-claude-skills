@@ -127,6 +127,8 @@ Skills for working with complex file formats:
 | **[frontend-slides](https://github.com/zarazhangrui/frontend-slides)** | Create animation-rich HTML presentations — from scratch or by converting PowerPoint files |
 | **[Expo Skills](https://github.com/expo/skills)** | Official skills by the Expo team for developing Expo apps |
 | **[shadcn/ui](https://ui.shadcn.com/docs/skills)** | Give Claude Code context on shadcn components as well as pattern enforcement |
+| **[logic-lens](https://github.com/hyhmrright/logic-lens)** | Logic-first code review via semi-formal execution tracing — finds behavioral bugs linters and type checkers miss, with Premises → Trace → Divergence → Remedy for every finding |
+| **[brooks-lint](https://github.com/hyhmrright/brooks-lint)** | AI code reviews grounded in twelve classic engineering books — diagnoses code across six decay dimensions with book citations, severity labels, and concrete remedies |
 
 _More community skills coming soon! Submit a PR to add your skill._
 
@@ -366,7 +368,7 @@ _Video tutorials coming soon! Have a good video about Claude Skills? Submit a PR
 **Skills not appearing in Claude**
 
 - Check Settings > Capabilities to ensure Skills are enabled
-- For Team/Enterprise: Verify admin has enabled Skills organization-wide
+- For Team/Enterprise: Verify admin has enabled Skills organization-wide first
 - Restart Claude after installing new skills
 
 **Skills not loading/activating**
