@@ -128,6 +128,7 @@ Skills for working with complex file formats:
 | **[Expo Skills](https://github.com/expo/skills)** | Official skills by the Expo team for developing Expo apps |
 | **[shadcn/ui](https://ui.shadcn.com/docs/skills)** | Give Claude Code context on shadcn components as well as pattern enforcement |
 | **[get-shit-done](https://github.com/gsd-build/get-shit-done)** | Lightweight meta-prompting, context engineering, and spec-driven development system for Claude Code by TÂCHES |
+| **[logic-lens](https://github.com/hyhmrright/logic-lens)** | Logic-first code review via execution tracing — catches interprocedural bugs, callee contract mismatches & control flow escapes that linters miss. Six skills: logic-review, logic-explain, logic-diff, logic-locate, logic-health, logic-fix-all. Works with Claude Code, Codex CLI & Gemini CLI |
 
 _More community skills coming soon! Submit a PR to add your skill._
 
